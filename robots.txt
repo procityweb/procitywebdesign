@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you.html
+Disallow: /thank-you
+Disallow: /received.html
+Disallow: /received
+
+Sitemap: https://procitywebdesign.com/sitemap.xml
